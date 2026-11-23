@@ -1,0 +1,25 @@
+# KiCad transient files
+*.kicad_prl
+*.lck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+.history/
+_autosave-*
+# Python
+__pycache__/
+*.py[cod]
+# STM32CubeIDE generated outputs
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+# IDE machine-local settings
+.metadata/
