@@ -1,0 +1,30 @@
+ERC report (2026-11-22T19:02:21, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(152.40 mm, 35.56 mm): Symbol #PWR01 Pin 1 [Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(152.40 mm, 50.80 mm): Symbol #PWR02 Pin 1 [Power input, Line]
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(90.17 mm, 66.04 mm): Label 'ADC_IN0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(90.17 mm, 68.58 mm): Label 'ADC_IN1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(90.17 mm, 71.12 mm): Label 'ADC_IN2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(90.17 mm, 73.66 mm): Label 'ADC_IN3'
+
+ ** ERC messages: 6  Errors 2  Warnings 4
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

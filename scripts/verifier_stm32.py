@@ -33,3 +33,4 @@ if RAPPORT.exists():
     print("Rapport cree :", RAPPORT)
 else:
     print("Aucun rapport genere.")
+  

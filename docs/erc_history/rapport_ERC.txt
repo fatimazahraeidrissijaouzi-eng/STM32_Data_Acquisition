@@ -1,0 +1,102 @@
+ERC report (2026-11-22T18:25:59, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 76.20 mm): Symbol U1 Pin 5 [PD0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 78.74 mm): Symbol U1 Pin 6 [PD1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 83.82 mm): Symbol U1 Pin 2 [PC13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 86.36 mm): Symbol U1 Pin 3 [PC14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 88.90 mm): Symbol U1 Pin 4 [PC15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 93.98 mm): Symbol U1 Pin 18 [PB0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 96.52 mm): Symbol U1 Pin 19 [PB1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 99.06 mm): Symbol U1 Pin 20 [PB2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 101.60 mm): Symbol U1 Pin 39 [PB3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 104.14 mm): Symbol U1 Pin 40 [PB4, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 106.68 mm): Symbol U1 Pin 41 [PB5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 114.30 mm): Symbol U1 Pin 45 [PB8, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 116.84 mm): Symbol U1 Pin 46 [PB9, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 119.38 mm): Symbol U1 Pin 21 [PB10, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 121.92 mm): Symbol U1 Pin 22 [PB11, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 124.46 mm): Symbol U1 Pin 25 [PB12, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 127.00 mm): Symbol U1 Pin 26 [PB13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 129.54 mm): Symbol U1 Pin 27 [PB14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(54.61 mm, 132.08 mm): Symbol U1 Pin 28 [PB15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.17 mm, 66.04 mm): Symbol U1 Pin 10 [PA0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.17 mm, 68.58 mm): Symbol U1 Pin 11 [PA1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.17 mm, 71.12 mm): Symbol U1 Pin 12 [PA2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.17 mm, 73.66 mm): Symbol U1 Pin 13 [PA3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.17 mm, 86.36 mm): Symbol U1 Pin 29 [PA8, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.17 mm, 93.98 mm): Symbol U1 Pin 32 [PA11, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.17 mm, 96.52 mm): Symbol U1 Pin 33 [PA12, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.17 mm, 104.14 mm): Symbol U1 Pin 38 [PA15, Bidirectional, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(152.40 mm, 35.56 mm): Symbol #PWR01 Pin 1 [Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(152.40 mm, 50.80 mm): Symbol #PWR02 Pin 1 [Power input, Line]
+[no_connect_dangling]: Unconnected "no connection" flag
+    ; warning
+    @(146.05 mm, 102.87 mm): No Connect
+
+ ** ERC messages: 30  Errors 29  Warnings 1
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
